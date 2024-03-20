@@ -2,6 +2,8 @@
 
 # Custom Digital Synthesizer
 
+[Link Text](https://zchaplin.github.io/MusicSynnth/)
+
 ## Synthesis Description
 
 In this digital synthesizer, I employ various audio synthesis techniques to generate and manipulate sounds in real-time. The heart of the synthesizer revolves around calculating waveform samples dynamically, using distinct mathematical formulas for each type of waveform. The core waveforms include:
