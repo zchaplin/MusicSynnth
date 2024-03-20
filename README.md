@@ -6,7 +6,7 @@
 
 In this digital synthesizer, I employ various audio synthesis techniques to generate and manipulate sounds in real-time. The heart of the synthesizer revolves around calculating waveform samples dynamically, using distinct mathematical formulas for each type of waveform. The core waveforms include:
 
-- **Sine Wave**: Defined by \(y(t) = sin(2*pi*f\*t)\), where \(f\) is the frequency.
+- **Sine Wave**: Defined by \(y(t) = sin(2\*pi\*f\*t)\), where \(f\) is the frequency.
 - **Square Wave**: Creates its characteristic sound by switching between values of 1 and -1.
 - **Sawtooth Wave**: Given by \(y(t) = 2\((t/T) - (1/2 + t/T))) , with \(T\) representing the period.
 - **Triangle Wave**: Produces a linear ramp up and down, transitioning smoothly between -1 and 1.
