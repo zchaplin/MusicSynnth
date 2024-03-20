@@ -2,7 +2,7 @@
 
 # Custom Digital Synthesizer
 
-[Link Text](https://zchaplin.github.io/MusicSynnth/)
+[Check Out The Synthesizer Here](https://zchaplin.github.io/MusicSynnth/)
 
 ## Synthesis Description
 
