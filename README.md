@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Custom Digital Synthesizer
+# Custom Digital Synthesizer ### Zane Chaplin zchaplin 1887076 3/19/2024
 
 [Check Out The Synthesizer Here](https://zchaplin.github.io/MusicSynnth/)
 
