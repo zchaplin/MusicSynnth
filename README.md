@@ -1,7 +1,9 @@
 <!-- @format -->
 
 # Custom Digital Synthesizer 
-### Zane Chaplin zchaplin 1887076 3/19/2024
+### Zane Chaplin 3/19/2024
+#### Email: zchaplin@gmail.com 
+#### ID: 1887076 
 
 [Check Out The Synthesizer Here](https://zchaplin.github.io/MusicSynnth/)
 
