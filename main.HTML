@@ -1,0 +1,59 @@
+<!-- @format -->
+
+<html>
+  <body>
+    <h1><a href="JavaScript:onUserWantsToStart();">START SYNTHESIS</a></h1>
+    Add Noise
+    <div></div>
+    <input type="range" id="noiseSlider" min="0" max="100" step="1" value="0" />
+    <div></div>
+    Add Harmonies
+    <div></div>
+    <input
+      type="range"
+      id="upperHarmonySlider"
+      min="0"
+      max="7"
+      step="1"
+      value="0"
+    />
+    <div></div>
+    Base Note
+    <div></div>
+    <input
+      type="range"
+      id="baseFrequencySlider"
+      min="50"
+      max="1600"
+      step="1"
+      value="440"
+    />
+    <div>Primary Waveform Type</div>
+    <select id="primaryWaveformTypeSelector">
+      <option value="sine">Sine</option>
+      <option value="square">Square</option>
+      <option value="sawtooth">Sawtooth</option>
+      <option value="triangle">Triangle</option>
+    </select>
+    <div>Secondary Waveform Type</div>
+    <select id="secondaryWaveformTypeSelector">
+      <option value="sine">Sine</option>
+      <option value="square">Square</option>
+      <option value="sawtooth">Sawtooth</option>
+      <option value="triangle">Triangle</option>
+      <option value="none">None</option>
+      <!-- Option to have no secondary waveform -->
+    </select>
+    <div>Harmony Waveform Type</div>
+
+    <select id="harmonyWaveformTypeSelector">
+      <option value="sine">Sine</option>
+      <option value="square">Square</option>
+      <option value="sawtooth">Sawtooth</option>
+      <option value="triangle">Triangle</option>
+    </select>
+  </body>
+  <head>
+    <script src="main.js"></script>
+  </head>
+</html>
